@@ -4,7 +4,7 @@
 ### A simple barebones histogram showing the median ages of various countries using [d3](https://d3js.org/).
 
 # Link to site
-[Click Here](https://country-flag-guess-game.herokuapp.com/)
+[Click Here](https://rickyklu.github.io/medianagehistogram/)
 
 
 # Usage
